@@ -1,0 +1,13 @@
+	void info();
+
+	void info();
+
+	void infostack();
+
+	char choice();
+	void infotree();
+	void infotree();
+	void infoqueue();
+
+	void infograph();
+};
